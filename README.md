@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      
 <a href="https://www.linkedin.com/in/helfipangestu/" rel="nofollow"><img src="https://camo.githubusercontent.com/69d105983e648a783833c09ebc1c1cf0fe2ee14b/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" height="30" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" style="max-width:100%;"></a> &nbsp; 
 
-A software engineer with more than 5 years of experience in architecture design & engineering, microservices, and data.
+A software & data engineer with more than 5 years of experience in architecture design & engineering, microservices, and data.
 
 🔭 I’m currently working at one of the biggest ecommerce in Indonesia to built an datatech. Why ecommerce? Because of this fun fact 👇:
 
