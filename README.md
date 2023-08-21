@@ -14,18 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, Helfi here 🦸🏻‍♂️
-     
-<a href="https://www.linkedin.com/in/helfipangestu/" rel="nofollow"><img src="https://camo.githubusercontent.com/69d105983e648a783833c09ebc1c1cf0fe2ee14b/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" height="30" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" style="max-width:100%;"></a> &nbsp; 
 
-A software & data engineer with more than 5 years of experience in architecture design & engineering, microservices, and data.
+I'm a Data Engineer from Jakarta, Indonesia, currently based in Singapore. My work revolves around data pipeline construction and web development. I take pride in transforming complex problems into simple, reliable, and customer-centric solutions.
 
-🔭 I’m currently working at one of the biggest ecommerce in Indonesia to built an datatech. Why ecommerce? Because of this fun fact 👇:
+🔭 I’m currently employed at Quadrant.io, a global leader in mobile location data, POI data, and corresponding compliance services. My role involves building and maintaining data technologies that support the company's operations. Why Quadrant.io? Here's a fun fact to explain 👇:
 
-⚡ Fun fact: 
-There is a wide range of innovations being explored in this industry. On the data engineer side, we must have critical thinking about how to make the data always streaming well, fast, with no downtime, and credible. So, we always improve our algorithm and infrastructure to be better and can process very big size data just in seconds. 
+⚡ Fun fact: The field of mobile location and POI data is constantly evolving, with a wide range of innovations being explored. As a data engineer, I am tasked with ensuring that our data streams are efficient, reliable, and credible. This involves continually refining our algorithms and infrastructure to handle large volumes of data swiftly and accurately.
 
-
-🤔 So that:
-There is still plenty of room for growth, because the data is not stopped just that issue. There are many problems there like monitoring, logging, cost optimization, also alerting if there are incidents or anomalies in the data.
+🤔 So that: The scope for growth in this field is immense. Beyond the immediate challenges of data streaming, there are numerous other aspects to consider, such as monitoring, logging, cost optimization, and setting up alerts for incidents or anomalies in the data.
 
 ------
