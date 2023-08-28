@@ -25,4 +25,4 @@ I'm a Data Engineer from Jakarta, Indonesia, currently based in Singapore. My wo
 
 ------
 I have learned and built several projects as an independent developer at [Helfi Pangestu Laboratory](https://github.com/Helfi-Pangestu-Labs). Some of the projects include:
-- [Geohash Generator]([https://pypi.org/project/geohash-generator]) - A python module that provides function for converting geojson and shapefile to geohash.
+- [Geohash Generator](https://pypi.org/project/geohash-generator) - A python module that provides function for converting geojson and shapefile to geohash.
